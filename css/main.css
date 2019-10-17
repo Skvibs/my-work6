@@ -47,8 +47,6 @@ q:before, q:after {
 blockquote, q {
   quotes: "" ""; }
 
-
-
 body {
   min-width: 980px;
   font-size: 18px;
